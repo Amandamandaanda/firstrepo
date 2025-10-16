@@ -1,1 +1,3 @@
 TEXT EFTER KONFLIKT
+
+denna rad är skapad i ny-funktion branch
